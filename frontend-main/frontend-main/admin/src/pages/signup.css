@@ -1,0 +1,45 @@
+.cardSignup {
+	margin: 2rem auto;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	max-width: 800px;
+	background-color: #FFF;
+	border-radius: 10px;
+	box-shadow: 0 10px 20px 0 rgba(#999, .25);
+	padding: .75rem;
+}
+.cardViewList {
+	margin: 2rem auto;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	max-width: 1200px;
+	background-color: #FFF;
+	border-radius: 10px;
+	box-shadow: 0 10px 20px 0 rgba(#999, .25);
+	padding: .75rem;
+}
+.cardheading {
+	position: absolute;
+	left: 10%;
+	right: 10%;
+	font-size: 1.75rem;
+	font-weight: 700;
+	color: #ff6232;
+	line-height: 1.222;
+}
+.input-label {
+	color: rgb(0, 0, 0);
+	top: 1.5rem;
+	transition: .25s ease;
+}
+.btn-flex {
+	display: flex;
+	flex-direction: row;
+}
+.thumbnail-sm {
+	width: 90px;
+	height: 90px;
+	border-radius: 12px;
+  }

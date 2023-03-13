@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+}
+.fixed{
+    width: 160px;
+}
+.flex-item{
+	min-height: 900px;
+    flex-grow: 1;
+}
+
+.img_logo{
+    border-radius: 8px;
+	overflow: hidden;
+	padding-bottom: 65%;
+	background-image: url('../images/logo2.gif');
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: 0 5%;
+	position: relative;
+}

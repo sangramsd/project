@@ -1,0 +1,9 @@
+
+.background {
+	font-family: "DM Sans", sans-serif;
+	line-height: 1.5;
+	/* background-color: #828f99; */
+	/* background-color: #9ee1fc; */
+	background-image: url('./images/backGround.jpg');
+	padding: 0 2rem;
+}	
